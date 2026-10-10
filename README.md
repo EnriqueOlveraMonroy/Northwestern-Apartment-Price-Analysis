@@ -8,6 +8,8 @@ This project analyzes apartment listings for sale across the Northwestern Metrop
   <img src="images/geographic_scope.png" alt="Geographical Scope" width="800">
 </p>
 
+https://northwestern-apartment-price-analysis.onrender.com/
+
 The objective is to explore how apartment prices vary across municipalities and how factors such as **property size, number of bedrooms, and number of bathrooms** are associated with asking prices.
 
 The project combines data cleaning, exploratory data analysis, statistical analysis, and data visualization to identify patterns and differences in the local apartment market.
